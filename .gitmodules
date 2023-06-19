@@ -1,0 +1,9 @@
+[submodule "onvmpoller"]
+	path = onvmpoller
+	url = https://github.com/nycu-ucr/onvmpoller.git
+[submodule "gonet"]
+	path = gonet
+	url = https://github.com/nycu-ucr/gonet.git
+[submodule "net"]
+	path = net
+	url = https://github.com/nycu-ucr/net.git
